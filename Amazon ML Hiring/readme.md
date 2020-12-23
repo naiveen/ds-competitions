@@ -1,1 +1,0 @@
-Amazon ML Hiring Challenge
